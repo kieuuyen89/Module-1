@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5242afe2-60e7-4881-ab6d-37d78bdacacd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TinhDienTichHinhChuNhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TinhDienTichHinhTron.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Module-1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaiTapTinhDiemTrungBinh.html" beforeDir="false" />
-    </list>
+    <list default="true" id="5242afe2-60e7-4881-ab6d-37d78bdacacd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -67,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="68" />
     <option name="width" value="1280" />
     <option name="height" value="660" />
@@ -122,15 +113,15 @@
       <workItem from="1559602386110" duration="17000" />
       <workItem from="1559617595863" duration="31000" />
       <workItem from="1559617627410" duration="27000" />
-      <workItem from="1559617669729" duration="4072000" />
+      <workItem from="1559617669729" duration="4340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6377000" />
+    <option name="totallyTimeSpent" value="6645000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
