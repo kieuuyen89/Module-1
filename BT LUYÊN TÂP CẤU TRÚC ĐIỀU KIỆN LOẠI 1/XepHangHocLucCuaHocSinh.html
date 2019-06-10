@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>XepHangHocLucCuaHocSinh</title>
+</head>
+<body>
+<script>
+    let a = Number(prompt("nhập điểm bài kiểm tra"));
+    let b = Number(prompt("nhập điểm thi giưa kỳ"));
+    let c = Number(prompt("nhập điểm thi cuối  kỳ"));
+    let ĐTB = (a + b *2 + c *3)/6;
+    if(ĐTB>=8) {
+        alert ("học sinh giỏi");
+    }
+    if(ĐTB>=6.5 && ĐTB <8) {
+        alert (" Học sinh khá ");
+
+    }
+    if (ĐTB<6.5 && ĐTB >=5) {
+        alert ("Học sinh TB");
+
+    }
+    else{
+        alert (" Học sinh yếu");
+
+    }
+
+
+</script>
+
+</body>
+</html>
