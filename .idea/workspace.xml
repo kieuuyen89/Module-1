@@ -3,6 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="5242afe2-60e7-4881-ab6d-37d78bdacacd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT BIEN VA KIEU DU LIEU TOAN TU/123.html" beforeDir="false" afterPath="$PROJECT_DIR$/BT BIEN VA KIEU DU LIEU TOAN TU/123.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT BangCuuChuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/BT BangCuuChuong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT VÒNG LẶP 1/bt1.html" beforeDir="false" afterPath="$PROJECT_DIR$/BT VÒNG LẶP 1/bt1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/BT TinhLaiNganHang.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/BT TinhLaiNganHang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/Bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/Bai1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/BaiTapGiaiPhuongTrinhBac2.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/BaiTapGiaiPhuongTrinhBac2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/BaiTapNhapSoTuoiNguoi.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/BaiTapNhapSoTuoiNguoi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/DienTichHinhVuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/DienTichHinhVuong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/GiaiPhuongTrinhBac 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/GiaiPhuongTrinhBac 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/NhapSoTienThuNhapCaNhan.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/NhapSoTienThuNhapCaNhan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/TinhDienTichHinhChuNhat.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/TinhDienTichHinhChuNhat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/TinhDienTichTamGiacVuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/TinhDienTichTamGiacVuong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/bt mau 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/bt mau 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/btmau.html" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/btmau.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BÀI TẬP MẢNG/TimGiaTriLonNhatTrongMang.html" beforeDir="false" afterPath="$PROJECT_DIR$/BÀI TẬP MẢNG/TimGiaTriLonNhatTrongMang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BÀI TẬP MẢNG/TimGiaTriNhoNhat.html" beforeDir="false" afterPath="$PROJECT_DIR$/BÀI TẬP MẢNG/TimGiaTriNhoNhat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BÀI TẬP MẢNG/TinhTong.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BÀI TẬP MẢNG/bt mâu 1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BÀI TẬP MẢNG/bt1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BÀI TẬP VÒNG LẶP FOR/BT1.HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/BÀI TẬP VÒNG LẶP FOR/BT1.HTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BÀI TẬP VÒNG LẶP/BT1.HTML.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,46 +36,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TinhChuViHinhTron.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BÀI TẬP MẢNG/TimGiaTriLonNhatTrongMang.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TinhDienTichHinhTron.html">
+        <entry file="file://$PROJECT_DIR$/BÀI TẬP MẢNG/TimGiaTriNhoNhat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BaiTapTinhNamNhuan.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BaiTapSuKienChuot.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -80,11 +75,49 @@
         <option value="$PROJECT_DIR$/TinhDienTichHinhTron.html" />
         <option value="$PROJECT_DIR$/BaiTapTinhNamNhuan.html" />
         <option value="$PROJECT_DIR$/BaiTapSuKienChuot.html" />
+        <option value="$PROJECT_DIR$/BaiTapTinhChiSoCanNangCoThe.html" />
+        <option value="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/Bai1.html" />
+        <option value="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/TinhDienTichTamGiacVuong.html" />
+        <option value="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/DienTichHinhVuong.html" />
+        <option value="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/TinhDienTichHinhChuNhat.html" />
+        <option value="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/GiaiPhuongTrinhBac 1.html" />
+        <option value="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/BaiTapGiaiPhuongTrinhBac2.html" />
+        <option value="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/BaiTapNhapSoTuoiNguoi.html" />
+        <option value="$PROJECT_DIR$/BT BIEN VA KIEU DU LIEU TOAN TU/123.html" />
+        <option value="$PROJECT_DIR$/BT BIEN VA KIEU DU LIEU TOAN TU/ungdungmaytinh'.html" />
+        <option value="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/BT TinhLaiNganHang.html" />
+        <option value="$PROJECT_DIR$/BT BangCuuChuong.html" />
+        <option value="$PROJECT_DIR$/MayTinhDonGian.html" />
+        <option value="$PROJECT_DIR$/btmau.html" />
+        <option value="$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/BT1 .html" />
+        <option value="$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/btap 1.html" />
+        <option value="$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/bai tap 2( nhap tuoi đu ddieu kiên vao lóp 10).html" />
+        <option value="$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/BaiTap3.html" />
+        <option value="$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/BAITAP MAU.HTML.html" />
+        <option value="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/NhapSoTienThuNhapCaNhan.html" />
+        <option value="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/btmau.html" />
+        <option value="$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/bt mau 1.html" />
+        <option value="$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/NhapSoNguyenBatKy.html" />
+        <option value="$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/XepHangHocLucCuaHocSinh.html" />
+        <option value="$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/TimGiaTriLonNhatCua3SoNguyen.html" />
+        <option value="$PROJECT_DIR$/BÀI TẬP MẢNG/BT1.HTML.html" />
+        <option value="$PROJECT_DIR$/BÀI TẬP MẢNG/bt1.html" />
+        <option value="$PROJECT_DIR$/BÀI TẬP MẢNG/bt mâu 1.html" />
+        <option value="$PROJECT_DIR$/BÀI TẬP VÒNG LẶP/BT1.HTML.html" />
+        <option value="$PROJECT_DIR$/BÀI TẬP MẢNG/TinhTong.html" />
+        <option value="$PROJECT_DIR$/BÀI TẬP VÒNG LẶP FOR/BT2.html" />
+        <option value="$PROJECT_DIR$/BT VONG LAP WHLE/BT1.html" />
+        <option value="$PROJECT_DIR$/BT VÒNG LẶP 1/BT1.html" />
+        <option value="$PROJECT_DIR$/BÀI TẬP VÒNG LẶP FOR/BT1.HTML.html" />
+        <option value="$PROJECT_DIR$/BT VÒNG LẶP 1/bt1.html" />
+        <option value="$PROJECT_DIR$/BÀI TẬP MẢNG/TimGiaTriNhoNhat.html" />
+        <option value="$PROJECT_DIR$/BÀI TẬP MẢNG/TimGiaTriLonNhatTrongMang.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="y" value="68" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1280" />
     <option name="height" value="660" />
   </component>
@@ -94,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,10 +134,31 @@
               <item name="Module-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Module-1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Module-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module-1" type="462c0819:PsiDirectoryNode" />
+              <item name="BaiTapLieeuCauTrucDieuKienLoai2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module-1" type="462c0819:PsiDirectoryNode" />
+              <item name="BT BIEN VA KIEU DU LIEU TOAN TU" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module-1" type="462c0819:PsiDirectoryNode" />
+              <item name="BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module-1" type="462c0819:PsiDirectoryNode" />
+              <item name="BÀI TẬP MẢNG" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -113,7 +166,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BT BIEN VA KIEU DU LIEU TOAN TU" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -126,6 +179,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Module-1\BT BIEN VA KIEU DU LIEU TOAN TU" />
       <recent name="E:\Module-1" />
     </key>
   </component>
@@ -140,6 +194,9 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",HTML5_OUTLINE_MODE" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -160,19 +217,48 @@
       <workItem from="1559617669729" duration="4931000" />
       <workItem from="1559629894168" duration="3196000" />
       <workItem from="1559690958641" duration="2020000" />
-      <workItem from="1559697625106" duration="1259000" />
+      <workItem from="1559697625106" duration="4366000" />
+      <workItem from="1559708115903" duration="2282000" />
+      <workItem from="1559784084758" duration="9520000" />
+      <workItem from="1559803650927" duration="6849000" />
+      <workItem from="1559865923190" duration="709000" />
+      <workItem from="1559870493388" duration="8020000" />
+      <workItem from="1559952881375" duration="985000" />
+      <workItem from="1560034108151" duration="3173000" />
+      <workItem from="1560052748668" duration="770000" />
+      <workItem from="1560079566337" duration="247000" />
+      <workItem from="1560091579579" duration="1541000" />
+      <workItem from="1560121639244" duration="1308000" />
+      <workItem from="1560137276816" duration="3979000" />
+      <workItem from="1560149023116" duration="4279000" />
+      <workItem from="1560223194093" duration="7405000" />
+      <workItem from="1560382310032" duration="2001000" />
+      <workItem from="1560390708672" duration="4081000" />
+      <workItem from="1560475943294" duration="4180000" />
+      <workItem from="1560482464291" duration="3226000" />
+      <workItem from="1560494738247" duration="2906000" />
+      <workItem from="1560503312822" duration="1097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13711000" />
+    <option name="totallyTimeSpent" value="85376000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23065476" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.22954546" visible="true" weight="0.22693452" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.7704545" side_tool="true" visible="true" weight="0.22693452" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -180,10 +266,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.28104576" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -240,6 +326,205 @@
           <folding>
             <element signature="n#style#0;n#img#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaiTapTinhChiSoCanNangCoThe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/Bai1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT BIEN VA KIEU DU LIEU TOAN TU/ungdungmaytinh'.html" />
+    <entry file="file://$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/TinhDienTichTamGiacVuong.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/DienTichHinhVuong.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/TinhDienTichHinhChuNhat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT BangCuuChuong.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btmau.html" />
+    <entry file="file://$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/BT1 .html" />
+    <entry file="file://$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/BaiTap3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT BIEN VA KIEU DU LIEU TOAN TU/123.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/BAITAP MAU.HTML.html" />
+    <entry file="file://$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/btmau.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/GiaiPhuongTrinhBac 1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/bt mau 1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/BaiTapGiaiPhuongTrinhBac2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/BaiTapNhapSoTuoiNguoi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BÀI TẬP MẢNG/BT1.HTML.html" />
+    <entry file="file://$PROJECT_DIR$/BÀI TẬP MẢNG/bt1.html" />
+    <entry file="file://$PROJECT_DIR$/BÀI TẬP MẢNG/bt mâu 1.html" />
+    <entry file="file://$PROJECT_DIR$/BÀI TẬP VÒNG LẶP/BT1.HTML.html" />
+    <entry file="file://$PROJECT_DIR$/BÀI TẬP MẢNG/TinhTong.html" />
+    <entry file="file://$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/NhapSoTienThuNhapCaNhan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MayTinhDonGian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="95" selection-start-line="22" selection-start-column="95" selection-end-line="22" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT VONG LAP WHLE/BT1.html" />
+    <entry file="file://$PROJECT_DIR$/BÀI TẬP VÒNG LẶP FOR/BT1.HTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaiTapLieeuCauTrucDieuKienLoai2/BT TinhLaiNganHang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT VÒNG LẶP 1/bt1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BÀI TẬP VÒNG LẶP FOR/BT2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/TimGiaTriLonNhatCua3SoNguyen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BÀI TẬP MẢNG/TinhChieuDaiCuaMang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/XepHangHocLucCuaHocSinh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/NhapSoNguyenBatKy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/bai tap 2( nhap tuoi đu ddieu kiên vao lóp 10).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT LUYÊN TÂP CẤU TRÚC ĐIỀU KIỆN LOẠI 1/btap 1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BÀI TẬP MẢNG/TimGiaTriLonNhatTrongMang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BÀI TẬP MẢNG/TimGiaTriNhoNhat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>

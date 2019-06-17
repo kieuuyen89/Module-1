@@ -2,9 +2,45 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>BaiTapPhuongTrinhBac2</title>
 </head>
 <body>
-$END$
+<script>
+    var a = parseInt(prompt("Nhap a: "));
+    var b = parseInt(prompt( "Nhap b"));
+    var c = parseInt(prompt( "Nhap c"));
+    var delta = b *b -4 *a * c;
+        if (a === 0){
+            if (b === 0){
+                if (c === 0)
+                    alert("phuong trinh vo so nghiem: ");
+                else
+                    alert("phuong trinh vo nghiem: ");
+        } else {
+            let x1 = -b / c;
+            alert("phuong trinh co 1 nghiem la: " + x1);
+
+        }
+
+        } else {
+
+        if (delta < 0)
+            alert("phuong trinh vo nghiem: ");
+        if  (delta === 0) {
+            let x1 = -b / (2 *a);
+            alert("phuong trinh co nghiem kep: " + x1);
+
+        }
+        if(delta > 0)
+        {
+            let x1 = (-b - Math.sqrt(delta)) / (2 * a);
+            let x2 = (-b + Math.sqrt(delta)) / (2 *a);
+            alert("phuong trinh co hai nghiem: " + x1 + " " + x2);
+
+        }
+    }
+
+</script>
+
 </body>
 </html>
