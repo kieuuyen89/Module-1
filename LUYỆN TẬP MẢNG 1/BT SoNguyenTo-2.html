@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SoNguyenTo-2</title>
+</head>
+<body>
+    <h3>những số lớn hơn 10 là:</h3>
+    <p id="demo"></p>
+        <h3>tổng các số lớn hơn 10 là:</h3>
+    <p id="demo2"></p>
+        <h3>có bao nhiêu số:</h3>
+    <p id="demo3"></p>
+        <script>
+        let array = [10,12,13,9,16,77,55,7,13,15];
+    let text = "";
+    let tong = 0;
+    let dem = 0;
+    for(let i = 0;i < array.length;i++) {
+        if(array[i] > 10) {
+            text = text + array[i]+','
+            tong += Number(array[i])
+            dem += 1
+        }
+    }
+
+    document.getElementById("demo").innerHTML= text;
+    document.getElementById("demo2").innerHTML= tong;
+    document.getElementById("demo3").innerHTML= dem;
+
+
+
+</script>
+
+
+
+
+</body>
+</html>

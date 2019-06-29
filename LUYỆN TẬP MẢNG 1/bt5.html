@@ -2,9 +2,33 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>SoNguyenTo</title>
 </head>
 <body>
-$END$
+
+    <script>
+    function soNguyenTo(n) {
+        if (n==1) {
+            return false;
+        }
+        if(n==2) {
+            return true;
+        }
+        for(let i=2;i<n;i++){
+            if(n%i==0){
+                return false;
+            }
+        }
+        return true;
+    }
+    let array = [];
+    for(let j=2;j<20;j++){
+        if(soNguyenTo(j)==true){
+            array.push(j);
+        }
+    }
+    document.write(array);
+</script>
+
 </body>
 </html>

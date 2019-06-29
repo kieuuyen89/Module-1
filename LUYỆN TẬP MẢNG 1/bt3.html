@@ -2,9 +2,23 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>bt3</title>
 </head>
 <body>
 
+<script>
+    let array = [12,8,24,30,100,50];
+    let max = array[0];
+    let tong = 0;
+    for (let i = 0; i < array.length; i++){
+        if(array[i] > max){
+            max = array[i];
+        }
+        tong += array[i];
+    }
+
+    document.write("số lớn nhất:"  +max);
+    document.write("trung bình cộng là: " +tong/array.length);
+</script>
 </body>
 </html>

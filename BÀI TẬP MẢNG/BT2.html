@@ -2,9 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>BT2</title>
 </head>
 <body>
-$END$
+<script>
+    let array = [5,12,8,9,21,30,6,18,2,35];
+    let max = array[0];
+    index = 0;
+    for (let i = 0; i < array.length; i++){
+        if(array[i] > max){
+            max = array[i];
+            index = i;
+        }
+    }
+    alert("max: " + max + " vị trí " + index);
+</script>
 </body>
 </html>
